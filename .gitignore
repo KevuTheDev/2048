@@ -21,3 +21,28 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+# Extra Stuff
+Updates.txt
+workspace.xml
+2048.iml
+uiDesigner.xml
+compiler.xml
+description.xml
+description.html
+encoding.xml
+misc.xml
+modules.xml
+vcs.xml
+2048.kotlin_module
+Snakes - Creation Data.txt
+encodings.xml
+
+# Java Files and so on
+LWJGLTest.java
+Main.java
+
+AppleSquare.java
+SnakeGameMain.java
+SnakeMain.java
+SnakeSquare.java
